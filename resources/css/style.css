@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Vardana, Geniva, Tahoma, sans-serif ;
+}
+
+.header--main
+{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.download{
+    color: aquamarine;
+    font-size: 16px;
+}
+.header-sub-main
+{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.header-sub-sub-main
+{
+    font-size: 21px;
+    color: gray;
+}
